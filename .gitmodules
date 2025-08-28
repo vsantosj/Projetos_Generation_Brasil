@@ -1,0 +1,3 @@
+[submodule "blogpessoal_react"]
+	path = blogpessoal_react
+	url = git@github.com:vsantosj/blogpessoal_react.git
