@@ -4,3 +4,6 @@
 [submodule "portifolio_gen"]
 	path = portifolio_gen
 	url = git@github.com:vsantosj/portifolio_gen.git
+[submodule "react_playground_ts"]
+	path = react_playground_ts
+	url = git@github.com:vsantosj/react_playground_ts.git
