@@ -1,3 +1,6 @@
 [submodule "blogpessoal_react"]
 	path = blogpessoal_react
 	url = git@github.com:vsantosj/blogpessoal_react.git
+[submodule "portifolio_gen"]
+	path = portifolio_gen
+	url = git@github.com:vsantosj/portifolio_gen.git
