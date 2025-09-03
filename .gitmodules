@@ -7,3 +7,9 @@
 [submodule "react_playground_ts"]
 	path = react_playground_ts
 	url = git@github.com:vsantosj/react_playground_ts.git
+[submodule "projeto_final_bloco_01"]
+	path = projeto_final_bloco_01
+	url = git@github.com:vsantosj/projeto_final_bloco_01.git
+[submodule "Game_Vault"]
+	path = Game_Vault
+	url = git@github.com:vsantosj/Game_Vault.git
