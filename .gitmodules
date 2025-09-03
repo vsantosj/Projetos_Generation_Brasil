@@ -16,3 +16,6 @@
 [submodule "projeto_final_bloco_02"]
 	path = projeto_final_bloco_02
 	url = git@github.com:vsantosj/projeto_final_bloco_02.git
+[submodule "Generation_exercicios"]
+	path = Generation_exercicios
+	url = git@github.com:vsantosj/Generation_exercicios.git
