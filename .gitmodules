@@ -13,3 +13,6 @@
 [submodule "Game_Vault"]
 	path = Game_Vault
 	url = git@github.com:vsantosj/Game_Vault.git
+[submodule "projeto_final_bloco_02"]
+	path = projeto_final_bloco_02
+	url = git@github.com:vsantosj/projeto_final_bloco_02.git
